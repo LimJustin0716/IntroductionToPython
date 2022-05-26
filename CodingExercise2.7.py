@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter you age: ")
+favorite_color = input("Enter you favorite color: ")
+favorite_movie = input("Enter you favorite movie: ")
+mobile_number = int(input("Enter your mobile number: "))
+motto_in_life = input("Enter your motto in life: ")
